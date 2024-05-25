@@ -2,6 +2,7 @@ from turtle import *
 # colors can be hex codes or color names
 
 getscreen().bgcolor("black")
+#This function will change the color of the background
 
 color("red")
 circle(int(100))
