@@ -1,5 +1,6 @@
 from turtle import *
 # colors can be hex codes or color names
+# the commands begin_fill and end_fill used to fill in the shapes with the desire color
 color("red")
 circle(int(100))
 begin_fill()
